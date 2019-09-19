@@ -11,8 +11,7 @@
     "core-js": "^2.6.5",
     "vkbeautify": "^0.99.3",
     "vue": "^2.6.10",
-    "vue-codemirror": "^4.0.6",
-    "vue-highlight.js": "^3.1.0"
+    "vue-codemirror": "^4.0.6"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",

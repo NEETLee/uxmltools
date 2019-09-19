@@ -1,0 +1,25 @@
+{
+  "pluginName": "Formatter",
+  "version": "0.2.1",
+  "description": "格式化工具",
+  "author": "NEET",
+  "homepage": "https://www.imaneet.net",
+  "main": "index.html",
+  "preload": "preload.js",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "xml",
+      "explain": "XML格式化",
+      "cmds": [
+        "xml",
+        "Formatter",
+        "格式化",
+        {
+          "type": "over",
+          "label": "格式化代码"
+        }
+      ]
+    }
+  ]
+}
