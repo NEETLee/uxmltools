@@ -5,7 +5,6 @@
   "author": "NEET",
   "homepage": "https://www.imaneet.net",
   "main": "index.html",
-  "preload": "preload.js",
   "logo": "logo.png",
   "features": [
     {
